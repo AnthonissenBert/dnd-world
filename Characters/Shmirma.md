@@ -1,0 +1,1 @@
+A human female living in the village of [[towns/small towns/Brem]]. She aided a party of adventurers to remove the influence of the fallen priest [[Father Petroika]] from her village. Former lover of [[Mathias]].

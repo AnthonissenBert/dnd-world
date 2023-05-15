@@ -1,0 +1,15 @@
+day: 8 maart 2023
+party:
+- [[Sudo]]
+- [[Fluffy]]
+- [[Monom]]
+- [[Mardai Sorrow]]
+
+### long version
+The party ventured out of emberwood forest to see the mountain range of the [[Copper Tops]] and a board that said [[Copperhollow]]. The party went to the village to be greeted by the town mayor [[Ezum Non]] and his companion [[Osmund Briarmane]]. That came up to them with a quest to find out why a group of miners have gone missing in the mines ([[miners gone missing]]). [[Ezum Non]] led them to the [[Cliffshine Corporation]] to talk. There the party had some conversation with [[Ezum Non]], [[Vazir Shurnin]] and also another 1 on 1 conversation between [[Mardai Sorrow]] and [[Chetov Lervas]]. This conversation led to a full metal crate with a particular symbol on it (a [[Lord Lurken]] family crest). After some cunning conversation between the 2 [[Mardai Sorrow]] accepted to smuggle it out of [[Copperhollow]]. After that [[Mardai Sorrow]] was abruptly escorted out of the room and sent on his way back to [[Cliffshine Corporation]] where he found the party already sleeping. 
+
+The next morning the party ventured to the [[Firestone Mining company]] to ask some question to [[Githan Shortpick]]. The owner and the one who keeps the books on the mines. [[Githan Shortpick]] gladly handed out the lethger on the mines to [[Monom]] and answered every question honest and accordingly. [[Githan Shortpick]] gave the party horse and wagon so that they could ride in ease to the mines. During this short right [[Monom]] found a blue mushroom. After thorough investigation he discerned it was a magical mushroom capable of abjuration magic (once you eat this the next time you are about to get hit you can call upon the mushroom to shield the one who eats it).
+
+Once arrived at the mines they lighted a torch and ventured in. They saw a the big central minetunnel going down with offshoots left and right. Stripmines mostly. but in some there were some left over pickaxes and miners helmets. At the front nothing. But delving deeper they found a stripmine that was presumably connected to the main hall. A small [[goblin]] came lurking out. [[Mardai Sorrow]] shot a firebolt straight forward and the [[goblin]] was too slow. The [[goblin]] scurried back to the main hall notifiying his other [[goblin]] brothers and their leader [[Hobgoblin]]. The party made short work of the goblin hoard. However were petrified when they noticed in the back of the hall that there was a hole dug where the leftover bodies of the miners were held as food. That was not all however as [[Sudo]] did one final magical awareness and noticed that the [[Hobgoblin]] had a magical piece of parchment with a logo on it (japanese kanji for darkness). [[Sudo]] layed his hand on it and a voice spoke: "Don't ever try that again". Soon after that [[Mardai Sorrow]] tried the same and got an answer: "DON'T". and than, after some lollygagging the piece exploded. [[Sudo]] went uncouncious but alas [[Monom]] was there to stabalize this fallen barbarian. 
+
+And the party is making their way back to [[Copperhollow]] to cash their bounty

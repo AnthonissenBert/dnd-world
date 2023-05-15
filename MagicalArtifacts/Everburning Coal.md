@@ -1,0 +1,1 @@
+This object is a small piece of charcoal that feels warm to the touch and always contains small embers. Rubbing the charcoal leaves residue but does not make the coal smaller. The coal continues to burn because it is infused with a tiny part of the flame of [[Magnus]].

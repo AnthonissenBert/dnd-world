@@ -1,0 +1,1 @@
+A mountain range known for the rich veins of copper to be mined
