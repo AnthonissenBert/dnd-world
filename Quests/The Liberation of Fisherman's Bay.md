@@ -24,6 +24,8 @@ these can be avoided
 ## loot
 ...
 
+## npc's where they can get information
+
 # in long
 Introduction:
 The coastal village of Fisherman's Bay has been enslaved by a group of ruthless whale hunters who have taken over the area. The players are a group of adventurers who have heard about the plight of the village and have decided to take action. They arrive at the village just as the sun begins to set, and they can see the shadowy figures of the whale hunters moving about.

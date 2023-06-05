@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vakonijnzir Shurnin.md",
+                "file": "Quests/The Liberation of Fisherman's Bay.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vakonijnzir Shurnin.md",
+                "file": "Quests/The Liberation of Fisherman's Bay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vakonijnzir Shurnin.md",
+                "file": "Quests/The Liberation of Fisherman's Bay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vakonijnzir Shurnin.md"
+                "file": "Quests/The Liberation of Fisherman's Bay.md"
               }
             }
           }
@@ -147,5 +147,9 @@
     }
   },
   "active": "393b6cf42e545f30",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Quests/The Liberation of Fisherman's Bay.md",
+    "Enemies/Ranged Pirate.md",
+    "Vakonijnzir Shurnin.md"
+  ]
 }
