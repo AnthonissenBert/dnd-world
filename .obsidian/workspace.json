@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quests/The Liberation of Fisherman's Bay.md",
+                "file": "templates/Party template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests/The Liberation of Fisherman's Bay.md",
+                "file": "templates/Party template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quests/The Liberation of Fisherman's Bay.md",
+                "file": "templates/Party template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quests/The Liberation of Fisherman's Bay.md"
+                "file": "templates/Party template.md"
               }
             }
           }
@@ -148,6 +148,20 @@
   },
   "active": "393b6cf42e545f30",
   "lastOpenFiles": [
+    "templates/PC template.md",
+    "templates/Party template.md",
+    "templates/NPC template.md",
+    "templates/Session template.md",
+    "templates/Location template.md",
+    "Sessions/Session 4.md",
+    "templates",
+    "Sessions/Session 3.md",
+    "Sessions/Session 2.md",
+    "Sessions/session 1.md",
+    "towns/small towns/Brem.md",
+    "towns/small towns/Blackbow.md",
+    "towns/big towns/Dashingvale.md",
+    "towns/big towns/Astoria.md",
     "Quests/The Liberation of Fisherman's Bay.md",
     "Enemies/Ranged Pirate.md",
     "Vakonijnzir Shurnin.md"
